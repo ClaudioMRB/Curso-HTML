@@ -30,15 +30,15 @@ mudar cor do paragráfo #styles.css --> p { color: red;}
 
 .class - seleciona todos os elementos com class = "intro"
 
-​							index.html		ex: <.h2 class="cor-laranja"> Categorias </h2>
+​							index.html		ex: <.h2 class="cor-laranja"> Categorias <./h2>
 
 ​							#styles.css 		ex: .cor-laranja { color: orange;}
 
 .class1 .class2 - seleciona todos os elementos com name1 e name2 definidos dentro de seu atributo de classe.
 
-index.html Ex: <div class="card"> img </div>
+index.html Ex: <.div class="card"> img <./div>
 
-​							<div class="card"> texto</div>div>
+​							<.div class="card"> texto<./div>div>
 
 todo seletor que tiver um img dentro de um card.
 
@@ -56,7 +56,7 @@ mudar a cor quando passa o mouse em cima.
 
 mudar cor de fundo quando o seletor for um (id="")
 
-index.html Ex1: <section id="titles">
+index.html Ex1: <.section id="titles">
 
 #styles.css Ex2: #titles { background-color: cor;}
 
