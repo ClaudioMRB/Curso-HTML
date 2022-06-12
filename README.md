@@ -46,3 +46,29 @@ todo seletor que tiver um img dentro de um card.
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+mudar a cor quando passa o mouse em cima.
+
+#styles.css Ex: .cor-laranja:hover { color: aqua;}
+
+​					Ex2: .card h1:hover{ color: aqua;}
+
+-------------------------------------------------------------------------------------------------------------------------
+
+mudar cor de fundo quando o seletor for um (id="")
+
+index.html Ex1: <section id="titles">
+
+#styles.css Ex2: #titles { background-color: cor;}
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+(*) é um seletor que adiciona as modificações para todo o projeto.
+
+#styles.css Ex1:  * { font-size: 1-px}
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
