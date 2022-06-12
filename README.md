@@ -30,7 +30,7 @@ mudar cor do paragráfo #styles.css --> p { color: red;}
 
 .class - seleciona todos os elementos com class = "intro"
 
-​							index.html		ex: <h2 class="cor-laranja"> Categorias </h2>
+​							index.html		ex: <.h2 class="cor-laranja"> Categorias </h2>
 
 ​							#styles.css 		ex: .cor-laranja { color: orange;}
 
