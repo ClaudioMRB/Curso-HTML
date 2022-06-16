@@ -113,6 +113,8 @@ define o comportamento padrão de como *flex items* são alinhados de acordo com
 
 - `stretch` (padrão): estica os ítens para preencher o container, respeitando o `min-width`/`max-width`).
 
+- min-width/max-width = largura minima e largura maxima.
+
 - `flex-start`/ `start` / `self-start`: ítens são posicionados no início do eixo transversal. A diferença entre eles é sutil e diz respeito às regras de `flex-direction` ou `writing-mode`.
 
 - `center`: ítens são centralizados no eixo transversal.
