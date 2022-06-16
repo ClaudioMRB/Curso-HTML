@@ -214,3 +214,5 @@ Por favor veja a explicação da propriedade `align-items` para entender quais s
 - O CSS só enxerga a hierarquia pai-filho; não vai aplicar as propriedades Flex para elementos que não estejam diretamente relacionados;
 - Para que as propriedades funcionem nos elementos-filhos, as pais devem ter propriedade `display: flex;`.
 - As propriedades `float`, `clear` e `vertical-align` não têm efeito em flex-items.
+
+margin: 0 auto; **centralizar conteudo/blocos**
